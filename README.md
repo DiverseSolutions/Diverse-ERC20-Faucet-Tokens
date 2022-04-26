@@ -1,5 +1,6 @@
 ### Mongolian ERC20 Tokens
 ---
+Minted 10'000'000'000 On Each Token For Faucet Use
 
 
 
