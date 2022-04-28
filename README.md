@@ -1,8 +1,6 @@
-### Mongolian ERC20 Tokens
+### ERC20 Faucet Tokens
 ---
 Minted 10'000'000'000 On Each Token For Faucet Use
-
-
 
 ##### Mumbai Mongolian Tokens
 - Owner Address : 0xb83E7D21cd4c2f162692bbf2C94f864FEE488965
