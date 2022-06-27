@@ -29,7 +29,7 @@ async function main() {
   await MONTContract.deployed();
   
 
-  const faucetContractAddress = "0xAb98B2Ea9A58aF064f521505266ece68E634b14b"
+  const faucetContractAddress = "0x128e6614252b70225a65088052a686fef7a4fdd0"
 
   await BUSDContract.transfer(faucetContractAddress,ethers.utils.parseUnits("5000000",18));
   await USDTContract.transfer(faucetContractAddress,ethers.utils.parseUnits("5000000",18));
